@@ -1,3 +1,3 @@
 # Crypt-password-PC
 
-Password generator for PC
+Генератор паролей для ПК
