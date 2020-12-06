@@ -196,7 +196,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CryptPassword";
+            this.Text = "Crypt Password";
             ((System.ComponentModel.ISupportInitialize)(this.picQR)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
